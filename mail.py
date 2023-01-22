@@ -1,3 +1,8 @@
+#######################################
+# Copyright of Hamada Kamal, 2023     #
+# https://www.github.com/HamadaKamal  #
+#######################################
+
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
